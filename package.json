@@ -1,0 +1,19 @@
+{
+  "name": "discordbutton",
+  "version": "1.0.0",
+  "description": "acerfln",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "acerhizmq",
+  "license": "MIT",
+  "dependencies": {
+    "discord-buttons": "^3.2.1",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.34"
+  }
+}
